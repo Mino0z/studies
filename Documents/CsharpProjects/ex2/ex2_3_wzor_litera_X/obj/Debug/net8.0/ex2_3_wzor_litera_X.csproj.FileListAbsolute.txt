@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/bin/Debug/net8.0/ex2_3_wzor_litera_X
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/bin/Debug/net8.0/ex2_3_wzor_litera_X.deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/bin/Debug/net8.0/ex2_3_wzor_litera_X.runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/bin/Debug/net8.0/ex2_3_wzor_litera_X.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/bin/Debug/net8.0/ex2_3_wzor_litera_X.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/refint/ex2_3_wzor_litera_X.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ex2_3_wzor_litera_X.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex2_3_wzor_litera_X/obj/Debug/net8.0/ref/ex2_3_wzor_litera_X.dll
