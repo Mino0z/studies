@@ -15,3 +15,8 @@ Wejście:
 Wyjście:
 
 Normalny
+
+Input	Result
+6 10 8  Normalny
+7 9 10  Nadmiar
+7 9 2   Niedobór
