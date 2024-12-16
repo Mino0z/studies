@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/bin/Debug/net8.0/ex5_Workshop_rabat_na_loty
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/bin/Debug/net8.0/ex5_Workshop_rabat_na_loty.deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/bin/Debug/net8.0/ex5_Workshop_rabat_na_loty.runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/bin/Debug/net8.0/ex5_Workshop_rabat_na_loty.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/bin/Debug/net8.0/ex5_Workshop_rabat_na_loty.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/refint/ex5_Workshop_rabat_na_loty.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ex5_Workshop_rabat_na_loty.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/Debug/net8.0/ref/ex5_Workshop_rabat_na_loty.dll
