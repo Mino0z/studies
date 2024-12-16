@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/bin/Debug/net8.0/ex4_5_Odslon_plansze(Saper)
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/bin/Debug/net8.0/ex4_5_Odslon_plansze(Saper).deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/bin/Debug/net8.0/ex4_5_Odslon_plansze(Saper).runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/bin/Debug/net8.0/ex4_5_Odslon_plansze(Saper).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/bin/Debug/net8.0/ex4_5_Odslon_plansze(Saper).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/refint/ex4_5_Odslon_plansze(Saper).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ex4_5_Odslon_plansze(Saper).genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_5_Odslon_plansze(Saper)/obj/Debug/net8.0/ref/ex4_5_Odslon_plansze(Saper).dll
