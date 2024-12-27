@@ -43,3 +43,4 @@ ujemny argument;
 
 2 2 | 
 0 0 ;
+
