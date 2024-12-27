@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/bin/Debug/net8.0/ex4_1_przetwazanie_tablic_1d
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/bin/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/bin/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/bin/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/bin/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/refint/ex4_1_przetwazanie_tablic_1d.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ex4_1_przetwazanie_tablic_1d.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex4/ex4_1_przetwazanie_tablic_1d/obj/Debug/net8.0/ref/ex4_1_przetwazanie_tablic_1d.dll

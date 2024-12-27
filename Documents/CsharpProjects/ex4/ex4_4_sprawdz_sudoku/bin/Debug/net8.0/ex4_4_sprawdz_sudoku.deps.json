@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex4_4_sprawdz_sudoku/1.0.0": {
+        "runtime": {
+          "ex4_4_sprawdz_sudoku.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex4_4_sprawdz_sudoku/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
