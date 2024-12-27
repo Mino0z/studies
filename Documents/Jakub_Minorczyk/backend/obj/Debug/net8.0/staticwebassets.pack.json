@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/css/app.9c09b995.css",
+      "PackagePath": "staticwebassets/css/app.9c09b995.css"
+    },
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/img/logo_2.87368534.png",
+      "PackagePath": "staticwebassets/img/logo_2.87368534.png"
+    },
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/js/app.5708c6d1.js",
+      "PackagePath": "staticwebassets/js/app.5708c6d1.js"
+    },
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/js/app.5708c6d1.js.map",
+      "PackagePath": "staticwebassets/js/app.5708c6d1.js.map"
+    },
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/js/chunk-vendors.654a909c.js",
+      "PackagePath": "staticwebassets/js/chunk-vendors.654a909c.js"
+    },
+    {
+      "Id": "/Users/jakubminorczyk/Documents/Jakub_Minorczyk/backend/wwwroot/js/chunk-vendors.654a909c.js.map",
+      "PackagePath": "staticwebassets/js/chunk-vendors.654a909c.js.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
