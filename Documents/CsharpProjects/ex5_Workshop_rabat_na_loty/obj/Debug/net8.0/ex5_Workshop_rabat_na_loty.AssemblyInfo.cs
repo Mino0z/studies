@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex5_Workshop_rabat_na_loty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bf0c69112385ce07cab8c824368d8952cba57ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7d1bdfa2583eb26fc92baa49350aa724e5c7f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex5_Workshop_rabat_na_loty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex5_Workshop_rabat_na_loty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

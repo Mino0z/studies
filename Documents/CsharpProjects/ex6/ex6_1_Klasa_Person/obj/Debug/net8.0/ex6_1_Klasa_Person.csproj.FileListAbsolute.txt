@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/bin/Debug/net8.0/ex6_1_Klasa_Person
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/bin/Debug/net8.0/ex6_1_Klasa_Person.deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/bin/Debug/net8.0/ex6_1_Klasa_Person.runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/bin/Debug/net8.0/ex6_1_Klasa_Person.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/bin/Debug/net8.0/ex6_1_Klasa_Person.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/refint/ex6_1_Klasa_Person.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ex6_1_Klasa_Person.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex6/ex6_1_Klasa_Person/obj/Debug/net8.0/ref/ex6_1_Klasa_Person.dll

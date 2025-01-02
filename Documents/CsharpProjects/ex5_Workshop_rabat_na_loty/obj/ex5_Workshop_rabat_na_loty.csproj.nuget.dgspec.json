@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj": {}
+    "/Users/jakubminorczyk/Documents/CsharpProjects/ex5/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj": {}
   },
   "projects": {
-    "/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj": {
+    "/Users/jakubminorczyk/Documents/CsharpProjects/ex5/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj",
+        "projectUniqueName": "/Users/jakubminorczyk/Documents/CsharpProjects/ex5/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj",
         "projectName": "ex5_Workshop_rabat_na_loty",
-        "projectPath": "/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj",
+        "projectPath": "/Users/jakubminorczyk/Documents/CsharpProjects/ex5/ex5_Workshop_rabat_na_loty/ex5_Workshop_rabat_na_loty.csproj",
         "packagesPath": "/Users/jakubminorczyk/.nuget/packages/",
-        "outputPath": "/Users/jakubminorczyk/Documents/CsharpProjects/ex5_Workshop_rabat_na_loty/obj/",
+        "outputPath": "/Users/jakubminorczyk/Documents/CsharpProjects/ex5/ex5_Workshop_rabat_na_loty/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jakubminorczyk/.nuget/NuGet/NuGet.Config"

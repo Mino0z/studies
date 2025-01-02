@@ -1,8 +1,52 @@
 ﻿using System;
 using System.Globalization;
-class Program
-{
 
+
+namespace ex5_Workshop_rabat_na_loty{
+public class Program
+{
+    static void Main(string[] args)
+    {
+        DateTime bornDate = DateTime.Now;
+        DateTime flightDate = DateTime.Now;
+        string countryFlight = "";
+        string regularCustomer = "";
+        string format = "yyyy-MM-dd";
+        CultureInfo provider = CultureInfo.InvariantCulture;
+        
+        
+        bornDate = PromptBornDate(format, provider, bornDate);
+        flightDate = PromptFlightDate(format, provider, flightDate);
+        countryFlight = PromptCountryFlight(countryFlight);
+        regularCustomer = PromptRegularCustomer(regularCustomer); 
+        string dayName = ConvertDayOfWeek(flightDate);
+        string monthName = ConvertMonth(flightDate);
+        
+        int discount = 0;
+
+        string seasonFlightMessage = SeasonFlightMessage(IsSeasonFlight(flightDate));
+        string countryFlightMessage = SetCountryFlightStatus(countryFlight).Item2;
+        string regularCustomerMessage = SetRegularCustomerStatus(regularCustomer, bornDate,  discount).Item2;
+        
+        discount = SetRegularCustomerStatus(regularCustomer, bornDate, discount).Item3;
+        discount = CalculateDiscountByAgeAndCountryFlight(bornDate, flightDate, SetCountryFlightStatus(countryFlight).Item1,  discount);
+        discount = CalculateMonthsToFlightDiscount(flightDate,  discount);
+        discount = CalculateSeasonFlightStatusDiscount(IsSeasonFlight(flightDate), SetCountryFlightStatus(countryFlight).Item1 , discount);
+    
+        discount = ApplyMaxDiscountLimit(GetExactAge(bornDate, flightDate), discount);
+        
+        
+        Console.WriteLine();
+        Console.WriteLine("=== Do obliczeń przyjęto:");
+        Console.WriteLine($"* Data urodzenia: {bornDate.ToString("dd.MM.yyyy")}");
+        Console.WriteLine($"* Data lotu: { dayName }, { flightDate.ToString("dd")} {monthName} {flightDate.ToString("yyyy")}. {seasonFlightMessage}");
+        Console.WriteLine($"* {countryFlightMessage}");
+        Console.WriteLine($"* Stały klient: {regularCustomerMessage}");
+        Console.WriteLine();
+        Console.WriteLine($"Przysługuje Ci rabat w wysokości: {discount}%");
+        Console.WriteLine($"Data wygenerowania raportu: {DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}");
+
+    }
     public static int GetExactAge(DateTime birthDate, DateTime targetDate)
     {
         int age = targetDate.Year - birthDate.Year;
@@ -315,46 +359,6 @@ class Program
         }
         return discount;
     }  
-    static void Main(string[] args)
-    {
-        DateTime bornDate = DateTime.Now;
-        DateTime flightDate = DateTime.Now;
-        string countryFlight = "";
-        string regularCustomer = "";
-        string format = "yyyy-MM-dd";
-        CultureInfo provider = CultureInfo.InvariantCulture;
-        
-        
-        bornDate = PromptBornDate(format, provider, bornDate);
-        flightDate = PromptFlightDate(format, provider, flightDate);
-        countryFlight = PromptCountryFlight(countryFlight);
-        regularCustomer = PromptRegularCustomer(regularCustomer); 
-        string dayName = ConvertDayOfWeek(flightDate);
-        string monthName = ConvertMonth(flightDate);
-        
-        int discount = 0;
-
-        string seasonFlightMessage = SeasonFlightMessage(IsSeasonFlight(flightDate));
-        string countryFlightMessage = SetCountryFlightStatus(countryFlight).Item2;
-        string regularCustomerMessage = SetRegularCustomerStatus(regularCustomer, bornDate,  discount).Item2;
-        
-        discount = SetRegularCustomerStatus(regularCustomer, bornDate, discount).Item3;
-        discount = CalculateDiscountByAgeAndCountryFlight(bornDate, flightDate, SetCountryFlightStatus(countryFlight).Item1,  discount);
-        discount = CalculateMonthsToFlightDiscount(flightDate,  discount);
-        discount = CalculateSeasonFlightStatusDiscount(IsSeasonFlight(flightDate), SetCountryFlightStatus(countryFlight).Item1 , discount);
     
-        discount = ApplyMaxDiscountLimit(GetExactAge(bornDate, flightDate), discount);
-        
-        
-        Console.WriteLine();
-        Console.WriteLine("=== Do obliczeń przyjęto:");
-        Console.WriteLine($"* Data urodzenia: {bornDate.ToString("dd.MM.yyyy")}");
-        Console.WriteLine($"* Data lotu: { dayName }, { flightDate.ToString("dd")} {monthName} {flightDate.ToString("yyyy")}. {seasonFlightMessage}");
-        Console.WriteLine($"* {countryFlightMessage}");
-        Console.WriteLine($"* Stały klient: {regularCustomerMessage}");
-        Console.WriteLine();
-        Console.WriteLine($"Przysługuje Ci rabat w wysokości: {discount}%");
-        Console.WriteLine($"Data wygenerowania raportu: {DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss")}");
-
-    }
+}
 }
