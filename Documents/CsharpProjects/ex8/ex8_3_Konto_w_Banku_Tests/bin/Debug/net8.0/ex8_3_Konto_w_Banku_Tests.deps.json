@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex8_3_Konto_w_Banku_Tests/1.0.0": {
+        "dependencies": {
+          "ex8_2_Konto_w_banku(part2)": "1.0.0"
+        },
+        "runtime": {
+          "ex8_3_Konto_w_Banku_Tests.dll": {}
+        }
+      },
+      "ex8_2_Konto_w_banku(part2)/1.0.0": {
+        "runtime": {
+          "ex8_2_Konto_w_banku(part2).dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex8_3_Konto_w_Banku_Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ex8_2_Konto_w_banku(part2)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

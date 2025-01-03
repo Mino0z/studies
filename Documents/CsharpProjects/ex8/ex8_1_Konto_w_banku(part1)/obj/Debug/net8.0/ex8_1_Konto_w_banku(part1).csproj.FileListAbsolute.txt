@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/bin/Debug/net8.0/ex8_1_Konto_w_banku(part1)
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/bin/Debug/net8.0/ex8_1_Konto_w_banku(part1).deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/bin/Debug/net8.0/ex8_1_Konto_w_banku(part1).runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/bin/Debug/net8.0/ex8_1_Konto_w_banku(part1).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/bin/Debug/net8.0/ex8_1_Konto_w_banku(part1).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/refint/ex8_1_Konto_w_banku(part1).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ex8_1_Konto_w_banku(part1).genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_1_Konto_w_banku(part1)/obj/Debug/net8.0/ref/ex8_1_Konto_w_banku(part1).dll

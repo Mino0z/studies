@@ -1,0 +1,12 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ex8_2_Konto_w_banku(part2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ex8_2_Konto_w_banku(part2).AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ex8_2_Konto_w_banku(part2).AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ex8_2_Konto_w_banku(part2).csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ex8_2_Konto_w_banku(part2).sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/bin/Debug/net8.0/ex8_2_Konto_w_banku(part2).deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/bin/Debug/net8.0/ex8_2_Konto_w_banku(part2).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/bin/Debug/net8.0/ex8_2_Konto_w_banku(part2).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ex8_2_Konto_w_banku(part2).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/refint/ex8_2_Konto_w_banku(part2).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ex8_2_Konto_w_banku(part2).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex8/ex8_2_Konto_w_banku(part2)/obj/Debug/net8.0/ref/ex8_2_Konto_w_banku(part2).dll
