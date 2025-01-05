@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/bin/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ)
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/bin/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/bin/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/bin/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/bin/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/refint/ex9_1_Kolekcje_(SIMPSEQ).dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ex9_1_Kolekcje_(SIMPSEQ).genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_1_Kolekcje_(SIMPSEQ)/obj/Debug/net8.0/ref/ex9_1_Kolekcje_(SIMPSEQ).dll

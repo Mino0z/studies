@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex9_4_Kolekcje_Agregator_logów/1.0.0": {
+        "runtime": {
+          "ex9_4_Kolekcje_Agregator_logów.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex9_4_Kolekcje_Agregator_logów/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

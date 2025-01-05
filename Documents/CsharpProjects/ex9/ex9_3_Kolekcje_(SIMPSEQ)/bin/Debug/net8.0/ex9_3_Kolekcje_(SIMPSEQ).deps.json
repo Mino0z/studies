@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ex9_3_Kolekcje_(SIMPSEQ)/1.0.0": {
+        "runtime": {
+          "ex9_3_Kolekcje_(SIMPSEQ).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex9_3_Kolekcje_(SIMPSEQ)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

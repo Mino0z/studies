@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/bin/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/bin/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.deps.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/bin/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.runtimeconfig.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/bin/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/bin/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.sourcelink.json
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/refint/ex9_4_Kolekcje_Agregator_logów.dll
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.pdb
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ex9_4_Kolekcje_Agregator_logów.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/CsharpProjects/ex9/ex9_4_Kolekcje_Agregator_logów/obj/Debug/net8.0/ref/ex9_4_Kolekcje_Agregator_logów.dll
