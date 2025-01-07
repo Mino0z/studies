@@ -1,4 +1,4 @@
-tabilność sortowania oznacza, że algorytm sortujący zachowuje względną kolejność 
+Stabilność sortowania oznacza, że algorytm sortujący zachowuje względną kolejność 
 elementów o tej samej wartości. Inaczej mówiąc, jeśli dwa elementy mają tę samą wartość, 
 algorytm stabilny zachowa ich pierwotną kolejność względem siebie w posortowanej tablicy.
 
