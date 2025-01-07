@@ -1,0 +1,23 @@
+Algorytm wyszukiwania binarnego (binary search) to jeden z najbardziej efektywnych 
+algorytmów do wyszukiwania elementu w posortowanej tablicy. Działa w czasie 
+O(logn), co czyni go znacznie szybszym niż proste przeszukiwanie liniowe (O(n)).
+
+Jak działa wyszukiwanie binarne?
+Zakładamy, że tablica jest posortowana.
+Sprawdzamy środkowy element tablicy.
+Jeśli element w środku jest tym, którego szukamy, zwracamy jego indeks.
+Jeśli element w środku jest większy niż szukany, wyszukujemy tylko w lewej połowie tablicy.
+Jeśli element w środku jest mniejszy, wyszukujemy tylko w prawej połowie tablicy.
+Powtarzamy proces na odpowiedniej połowie tablicy, aż znajdziemy element lub tablica stanie się 
+pusta (element nie występuje w tablicy).
+
+Kluczowe aspekty:
+Początkowe i końcowe wskaźniki (left, right): Określają zakres, w którym szukamy elementu.
+Środkowy indeks (mid): Wyliczamy go jako średnią między left i right. 
+Używamy formuły left + (right - left) / 2 zamiast (left + right) / 2, 
+aby uniknąć przepełnienia dla dużych liczb.
+Złożoność:
+Czasowa: 
+O(logn), ponieważ za każdym razem dzielimy zakres o połowę.
+Pamięciowa: 
+O(1), ponieważ algorytm działa w miejscu (iteracyjnie) i nie wymaga dodatkowej pamięci.

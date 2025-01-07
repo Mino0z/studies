@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/bin/Debug/net8.0/Horner scheme
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/bin/Debug/net8.0/Horner scheme.deps.json
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/bin/Debug/net8.0/Horner scheme.runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/bin/Debug/net8.0/Horner scheme.dll
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/bin/Debug/net8.0/Horner scheme.pdb
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.dll
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/refint/Horner scheme.dll
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.pdb
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/Horner scheme.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/Horner scheme/obj/Debug/net8.0/ref/Horner scheme.dll

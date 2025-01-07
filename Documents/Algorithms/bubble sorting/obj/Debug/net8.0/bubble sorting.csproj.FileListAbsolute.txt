@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/bubble sorting/bin/Debug/net8.0/bubble sorting
+/Users/jakubminorczyk/Documents/bubble sorting/bin/Debug/net8.0/bubble sorting.deps.json
+/Users/jakubminorczyk/Documents/bubble sorting/bin/Debug/net8.0/bubble sorting.runtimeconfig.json
+/Users/jakubminorczyk/Documents/bubble sorting/bin/Debug/net8.0/bubble sorting.dll
+/Users/jakubminorczyk/Documents/bubble sorting/bin/Debug/net8.0/bubble sorting.pdb
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.sourcelink.json
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.dll
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/refint/bubble sorting.dll
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.pdb
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/bubble sorting.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/bubble sorting/obj/Debug/net8.0/ref/bubble sorting.dll

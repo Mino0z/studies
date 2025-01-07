@@ -1,0 +1,3 @@
+Schemat Hornera to efektywny sposób obliczania wartości wielomianu dla danego
+x. Pozwala na minimalizację liczby operacji mnożenia i dodawania, co sprawia, 
+że obliczenia są szybsze i bardziej oszczędne pod względem pamięci.

@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/bin/Debug/net8.0/hash tables
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/bin/Debug/net8.0/hash tables.deps.json
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/bin/Debug/net8.0/hash tables.runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/bin/Debug/net8.0/hash tables.dll
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/bin/Debug/net8.0/hash tables.pdb
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.dll
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/refint/hash tables.dll
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.pdb
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/hash tables.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/hash tables/obj/Debug/net8.0/ref/hash tables.dll

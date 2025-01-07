@@ -1,0 +1,25 @@
+Bubble sort (sortowanie bąbelkowe) to jeden z najprostszych algorytmów sortowania. 
+Jego idea polega na porównywaniu sąsiednich elementów i zamianie ich miejscami, 
+jeśli są w niewłaściwej kolejności. W najgorszym przypadku działa w czasie 
+
+O(n^2), co sprawia, że jest mniej efektywny dla dużych zbiorów danych.
+
+Jak działa Bubble Sort?
+Przechodzimy przez tablicę wiele razy.
+Za każdym razem „przepychamy” największy element na koniec tablicy.
+Po każdym pełnym przebiegu zakres sortowania zmniejsza się 
+(ostatnie elementy są już na właściwych miejscach).
+
+Kluczowe aspekty:
+Zagnieżdżona pętla:
+Zewnętrzna pętla kontroluje liczbę przebiegów.
+Wewnętrzna pętla porównuje sąsiednie elementy.
+Optymalizacja za pomocą flagi swapped:
+Jeśli w danej iteracji nie było zamiany, algorytm kończy pracę wcześniej.
+Złożoność:
+
+Najgorszy przypadek: 
+O(n^2) — gdy dane są posortowane odwrotnie.
+
+Najlepszy przypadek: 
+O(n) — gdy dane są już posortowane (przy optymalizacji z flagą swapped).

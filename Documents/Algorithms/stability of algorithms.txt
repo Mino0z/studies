@@ -1,0 +1,24 @@
+tabilność sortowania oznacza, że algorytm sortujący zachowuje względną kolejność 
+elementów o tej samej wartości. Inaczej mówiąc, jeśli dwa elementy mają tę samą wartość, 
+algorytm stabilny zachowa ich pierwotną kolejność względem siebie w posortowanej tablicy.
+
+Algorytmy stabilne:
+Bubble Sort: Jest stabilny, ponieważ zachowuje kolejność elementów o tej samej wartości.
+
+Merge Sort: Również jest stabilny, ponieważ podczas łączenia dwóch posortowanych części, e
+lementy o tej samej wartości są dodawane w tej samej kolejności, w jakiej występowały wcześniej.
+
+Insertion Sort: Jest stabilny, ponieważ wstawiając element w odpowiednie miejsce, 
+nie zmienia kolejności elementów o tej samej wartości.
+
+Tim Sort: Jest stabilny (oparty na Merge Sort i Insertion Sort).
+
+Algorytmy niestabilne:
+Quick Sort: Jest niestabilny, ponieważ podczas dzielenia tablicy, elementy o tej 
+samej wartości mogą zmieniać kolejność.
+Heap Sort: Również jest niestabilny, ponieważ struktura kopca nie zapewnia zachowania 
+kolejności elementów o tej samej wartości.
+Stabilność jest ważna w przypadku, gdy istnieje potrzeba utrzymania porządku innych 
+atrybutów związanych z elementami o tej samej wartości. Na przykład, jeśli sortujesz 
+listę pracowników według wynagrodzenia, ale chcesz zachować ich pierwotną kolejność w 
+przypadku równości wynagrodzeń, użycie stabilnego algorytmu będzie istotne.

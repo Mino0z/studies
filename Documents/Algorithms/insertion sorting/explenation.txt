@@ -1,0 +1,18 @@
+Insert sort (sortowanie przez wstawianie) to prosty algorytm sortowania o złożoności O(n 2), 
+który działa dobrze na małych zbiorach danych lub na prawie posortowanych listach.
+Idea algorytmu opiera się na sukcesywnym wstawianiu elementów z nieposortowanej 
+części listy do odpowiedniego miejsca w części posortowanej.
+
+Jak działa Insert Sort?
+Traktujemy pierwszy element jako posortowany.
+Iterujemy przez resztę tablicy, pobierając jeden element na raz.
+Wstawiamy go w odpowiednie miejsce w części już posortowanej.
+
+Kluczowe punkty implementacji:
+Iteracja od drugiego elementu: Pierwszy element traktujemy jako posortowany.
+Przesuwanie elementów: Przesuwamy większe elementy w prawo, aby zrobić miejsce dla wstawianego elementu.
+Złożoność:
+Najgorszy przypadek: 
+O(n^2) — gdy dane są posortowane odwrotnie.
+Najlepszy przypadek: 
+O(n) — gdy dane są już posortowane.

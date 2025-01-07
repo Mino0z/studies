@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/bin/Debug/net8.0/factorial(iteration)
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/bin/Debug/net8.0/factorial(iteration).deps.json
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/bin/Debug/net8.0/factorial(iteration).runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/bin/Debug/net8.0/factorial(iteration).dll
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/bin/Debug/net8.0/factorial(iteration).pdb
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).dll
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/refint/factorial(iteration).dll
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).pdb
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/factorial(iteration).genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(iteration)/obj/Debug/net8.0/ref/factorial(iteration).dll

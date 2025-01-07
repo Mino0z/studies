@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/merge sorting/bin/Debug/net8.0/merge sorting
+/Users/jakubminorczyk/Documents/merge sorting/bin/Debug/net8.0/merge sorting.deps.json
+/Users/jakubminorczyk/Documents/merge sorting/bin/Debug/net8.0/merge sorting.runtimeconfig.json
+/Users/jakubminorczyk/Documents/merge sorting/bin/Debug/net8.0/merge sorting.dll
+/Users/jakubminorczyk/Documents/merge sorting/bin/Debug/net8.0/merge sorting.pdb
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.sourcelink.json
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.dll
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/refint/merge sorting.dll
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.pdb
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/merge sorting.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/merge sorting/obj/Debug/net8.0/ref/merge sorting.dll

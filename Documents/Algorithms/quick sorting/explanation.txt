@@ -1,0 +1,51 @@
+
+Quicksort (szybkie sortowanie) to jeden z najpopularniejszych i najszybszych algorytmów sortowania, 
+który opiera się na podejściu dziel i zwyciężaj (divide and conquer). Działa rekurencyjnie, 
+dzieląc tablicę na mniejsze części i sortując je niezależnie. Poniżej wyjaśniam, jak działa 
+krok po kroku:
+
+1. Wybór pivota (elementu porównawczego):
+Najpierw wybiera się element, który będzie pivotem. Pivot to punkt odniesienia, względem
+ którego elementy w tablicy są porównywane.
+Pivot może być wybrany różnie:
+Pierwszy element.
+Ostatni element.
+Element losowy.
+Środkowy element.
+2. Podział tablicy (partition):
+Tablica jest dzielona na dwie części:
+Mniejszą lub równą pivotowi.
+Większą od pivota.
+Pivot zostaje umieszczony na swojej ostatecznej pozycji w posortowanej tablicy.
+3. Rekurencja:
+Algorytm jest wywoływany rekurencyjnie dla obu podtablic (lewej i prawej), aż podtablice będą miały rozmiar 0 lub 1 (czyli będą posortowane).
+4. Koniec:
+Kiedy wszystkie podtablice są posortowane, scalają się w posortowaną całość.
+Przykład działania:
+Dla tablicy: [8, 3, 1, 7, 0, 10, 2]
+
+Wybór pivota: 7.
+Podział:
+Mniejsze/równe: [3, 1, 0, 2]
+Pivot: 7
+Większe: [8, 10]
+Rekurencyjne sortowanie [3, 1, 0, 2] i [8, 10]:
+[3, 1, 0, 2] → Pivot: 2 → [0, 1], 2, [3]
+[8, 10] → Pivot: 10 → [8], 10
+Posortowana tablica: [0, 1, 2, 3, 7, 8, 10].
+Cechy QuickSort:
+Czas działania:
+Średnio: 
+
+O(nlogn).
+
+W najgorszym przypadku (gdy pivot źle dobrany, np. zawsze największy lub najmniejszy element): 
+
+O(n^2).
+
+Zalety:
+Wysoka wydajność w praktyce.
+Niewielkie zużycie pamięci (w wersji in-place).
+Wady:
+Wrażliwość na wybór pivota.
+Nie jest stabilny (elementy o tej samej wartości mogą zmienić kolejność).

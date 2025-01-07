@@ -1,0 +1,11 @@
+Wyjaśnienie:
+
+Jeśli n == 0, zwracamy 0 (pierwszy wyraz).
+Jeśli n == 1, zwracamy 1 (drugi wyraz).
+Dla innych wartości n iteracyjnie obliczamy każdy kolejny wyraz, 
+aktualizując wartości zmiennych a i b.
+
+
+Rekurencyjny algorytm jest prosty do zrozumienia, 
+ale może być mało wydajny przy dużych wartościach n ze 
+względu na dużą liczbę powtórzeń tych samych obliczeń.

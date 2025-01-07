@@ -1,0 +1,33 @@
+Hashtables (tablice mieszające) to struktury danych używane do przechowywania i 
+szybkiego wyszukiwania danych przy użyciu kluczy. Działają na zasadzie przekształcania 
+klucza (np. liczby, ciągu znaków) w indeks tablicy za pomocą funkcji mieszającej (hash function). 
+Oto szczegóły działania:
+
+1. Struktura Hashtable
+Hashtable składa się z tablicy i funkcji mieszającej.
+Każdy element przechowywany jest w postaci pary klucz-wartość.
+Funkcja mieszająca przekształca klucz na indeks w tablicy.
+2. Proces przechowywania
+Klucz podawany jest do funkcji mieszającej.
+Funkcja zwraca indeks, który wskazuje miejsce w tablicy, gdzie ma być zapisana wartość.
+Wartość jest przechowywana w obliczonym miejscu.
+3. Proces wyszukiwania
+Podajesz klucz do wyszukania.
+Funkcja mieszająca oblicza indeks na podstawie klucza.
+Wartość jest odczytywana z obliczonego miejsca w tablicy.
+4. Kolizje
+Kolizja występuje, gdy dwa różne klucze dają ten sam indeks. Istnieją różne sposoby obsługi kolizji:
+
+Łańcuchowanie (chaining): W jednym indeksie przechowywana jest lista wszystkich wartości, które
+tam trafiły. Próbkowanie liniowe (linear probing): Jeśli indeks jest zajęty, szuka 
+się następnego wolnego miejsca w tablicy.
+Dwukrotne mieszanie (double hashing): Używa się drugiej funkcji mieszającej, 
+aby obliczyć nowe miejsce.
+5. Zastosowania
+Szybkie wyszukiwanie danych: hashtable ma średni czas dostępu O(1)
+
+Implementacje struktur takich jak: słowniki (dictionaries), mapy (maps), zestawy (sets).
+6. Wady i ograniczenia
+Wydajność zależy od jakości funkcji mieszającej (powinna minimalizować kolizje).
+Zajmuje więcej pamięci niż inne struktury danych (np. listy).
+Działa najlepiej przy odpowiednim rozmiarze tablicy (unikamy nadmiernego wypełnienia).

@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/Algorithms/binary search/bin/Debug/net8.0/binary search
+/Users/jakubminorczyk/Documents/Algorithms/binary search/bin/Debug/net8.0/binary search.deps.json
+/Users/jakubminorczyk/Documents/Algorithms/binary search/bin/Debug/net8.0/binary search.runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/binary search/bin/Debug/net8.0/binary search.dll
+/Users/jakubminorczyk/Documents/Algorithms/binary search/bin/Debug/net8.0/binary search.pdb
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.dll
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/refint/binary search.dll
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.pdb
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/binary search.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/binary search/obj/Debug/net8.0/ref/binary search.dll

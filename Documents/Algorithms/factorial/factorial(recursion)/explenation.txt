@@ -1,0 +1,5 @@
+Wyjaśnienie:
+
+1. Jeżeli n jest równe 0 lub 1, to silnia wynosi 1 (warunek brzegowy).
+2. W przeciwnym razie, funkcja wywołuje siebie samą dla n-1 i mnoży wynik przez n.
+3. Proces powtarza się aż do osiągnięcia warunku brzegowego.

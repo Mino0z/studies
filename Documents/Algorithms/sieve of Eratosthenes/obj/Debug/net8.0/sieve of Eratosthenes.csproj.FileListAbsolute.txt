@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/bin/Debug/net8.0/sieve of Eratosthenes
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/bin/Debug/net8.0/sieve of Eratosthenes.deps.json
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/bin/Debug/net8.0/sieve of Eratosthenes.runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/bin/Debug/net8.0/sieve of Eratosthenes.dll
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/bin/Debug/net8.0/sieve of Eratosthenes.pdb
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.dll
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/refint/sieve of Eratosthenes.dll
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.pdb
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/sieve of Eratosthenes.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/sieve of Eratosthenes/obj/Debug/net8.0/ref/sieve of Eratosthenes.dll

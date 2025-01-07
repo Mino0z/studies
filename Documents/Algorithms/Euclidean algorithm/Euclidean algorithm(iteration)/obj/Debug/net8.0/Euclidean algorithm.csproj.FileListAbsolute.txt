@@ -1,0 +1,30 @@
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/bin/Debug/net8.0/Euclidean algorithm
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/bin/Debug/net8.0/Euclidean algorithm.deps.json
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/bin/Debug/net8.0/Euclidean algorithm.runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/bin/Debug/net8.0/Euclidean algorithm.dll
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/bin/Debug/net8.0/Euclidean algorithm.pdb
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.dll
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/refint/Euclidean algorithm.dll
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.pdb
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/Euclidean algorithm.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/obj/Debug/net8.0/ref/Euclidean algorithm.dll
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/bin/Debug/net8.0/Euclidean algorithm
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/bin/Debug/net8.0/Euclidean algorithm.deps.json
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/bin/Debug/net8.0/Euclidean algorithm.runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/bin/Debug/net8.0/Euclidean algorithm.dll
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/bin/Debug/net8.0/Euclidean algorithm.pdb
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.dll
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/refint/Euclidean algorithm.dll
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.pdb
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/Euclidean algorithm.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/Euclidean algorithm/Euclidean algorithm(iteration)/obj/Debug/net8.0/ref/Euclidean algorithm.dll

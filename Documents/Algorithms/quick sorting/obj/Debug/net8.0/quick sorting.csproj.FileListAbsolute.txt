@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/quick sorting/bin/Debug/net8.0/quick sorting
+/Users/jakubminorczyk/Documents/quick sorting/bin/Debug/net8.0/quick sorting.deps.json
+/Users/jakubminorczyk/Documents/quick sorting/bin/Debug/net8.0/quick sorting.runtimeconfig.json
+/Users/jakubminorczyk/Documents/quick sorting/bin/Debug/net8.0/quick sorting.dll
+/Users/jakubminorczyk/Documents/quick sorting/bin/Debug/net8.0/quick sorting.pdb
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.sourcelink.json
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.dll
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/refint/quick sorting.dll
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.pdb
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/quick sorting.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/quick sorting/obj/Debug/net8.0/ref/quick sorting.dll

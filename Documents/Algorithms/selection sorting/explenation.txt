@@ -1,0 +1,28 @@
+Selection sort (sortowanie przez wybieranie) to prosty algorytm sortowania, 
+który iteracyjnie wybiera najmniejszy (lub największy) element z nieposortowanej 
+części tablicy i umieszcza go na właściwej pozycji w części posortowanej. 
+Działa w czasie 
+O(n^2) w najgorszym, najlepszym i średnim przypadku, niezależnie od początkowego układu danych.
+
+Jak działa Selection Sort?
+Znajdujemy najmniejszy element w nieposortowanej części tablicy.
+Zamieniamy go miejscami z pierwszym elementem tej części.
+Powtarzamy ten proces dla kolejnych elementów, aż cała tablica będzie posortowana.
+
+Kluczowe aspekty:
+Zagnieżdżone pętle:
+Zewnętrzna pętla odpowiada za wybór pozycji, na którą zostanie wstawiony najmniejszy element.
+Wewnętrzna pętla przeszukuje nieposortowaną część tablicy w celu znalezienia najmniejszego elementu.
+Prosta zamiana miejsc: Po znalezieniu najmniejszego elementu zamieniamy go z elementem na początku nieposortowanej części.
+Złożoność:
+Najgorszy i średni przypadek: 
+
+O(n^2) — konieczne jest wykonanie pełnego przeszukiwania dla każdego elementu.
+Najlepszy przypadek: 
+O(n^2) — algorytm nie sprawdza, czy dane są już posortowane.
+
+Zastosowania
+Selection sort nie jest zbyt wydajny dla dużych danych, ale znajduje zastosowanie w:
+
+Edukacji (łatwy do zrozumienia i implementacji).
+Sortowaniu małych zbiorów danych, gdzie prostota jest ważniejsza niż szybkość.

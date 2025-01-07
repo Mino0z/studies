@@ -1,0 +1,9 @@
+Wyjaśnienie:
+
+Jeśli n == 0, zwracamy 0 (pierwszy wyraz).
+Jeśli n == 1, zwracamy 1 (drugi wyraz).
+Dla innych wartości n iteracyjnie obliczamy każdy kolejny wyraz, 
+aktualizując wartości zmiennych a i b.
+
+Iteracyjny algorytm jest bardziej efektywny pod względem pamięciowym i 
+czasowym, ponieważ unika nadmiarowych obliczeń.

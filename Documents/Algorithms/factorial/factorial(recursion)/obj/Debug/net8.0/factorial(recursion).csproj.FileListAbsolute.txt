@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).sourcelink.json
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/bin/Debug/net8.0/factorial(recursion)
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/bin/Debug/net8.0/factorial(recursion).deps.json
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/bin/Debug/net8.0/factorial(recursion).runtimeconfig.json
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/bin/Debug/net8.0/factorial(recursion).dll
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/bin/Debug/net8.0/factorial(recursion).pdb
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).dll
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/refint/factorial(recursion).dll
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).pdb
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/factorial(recursion).genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/Algorithms/factorial/factorial(recursion)/obj/Debug/net8.0/ref/factorial(recursion).dll

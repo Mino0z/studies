@@ -1,0 +1,11 @@
+Algorytm Euklidesa to klasyczny algorytm służący do obliczania największego wspólnego dzielnika (NWD) 
+dwóch liczb. Działa na zasadzie iteracyjnego dzielenia z resztą i jest bardzo efektywny, 
+ponieważ jego czas działania wynosi O(logmin(a,b)), gdzie 
+a i b to liczby, dla których szukamy NWD.
+
+Jak działa algorytm Euklidesa?
+Jeśli 
+b=0, to NWD(a,b)=a.
+W przeciwnym razie, obliczamy 
+NWD(a,b) jako NWD(b,amodb) (gdzie \mod to reszta z dzielenia).
+Powtarzamy ten proces aż do momentu, gdy reszta będzie równa zero.

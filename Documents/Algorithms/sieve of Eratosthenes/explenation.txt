@@ -1,0 +1,26 @@
+Sito Eratostenesa to wydajny algorytm służący do znajdowania wszystkich liczb pierwszych mniejszych 
+niż dana liczba Algorytm działa w czasie O(nloglogn), co czyni go bardzo 
+efektywnym w porównaniu do prostych algorytmów sprawdzających, czy liczba jest pierwsza.
+
+Jak działa Sito Eratostenesa?
+Tworzymy tablicę boolowską isPrime, gdzie wszystkie elementy są początkowo ustawione 
+na true (zakładając, że każda liczba jest pierwsza).
+Dla każdej liczby i zaczynając od 2, jeśli i jest liczbą pierwszą, to zaznaczamy jako 
+false wszystkie wielokrotności i, ponieważ są one liczbami złożonymi.
+Algorytm kończy się, gdy i^2 przekroczy 
+n, ponieważ dla większych liczb wielokrotności zostały już oznaczone w poprzednich etapach.
+
+Kluczowe aspekty:
+Tablica boolowska isPrime: Przechowuje informacje, czy dana liczba jest pierwsza (true) czy nie (false).
+Pętla po liczbach od 2 do √n Dla każdej liczby i, jeśli jest ona pierwsza, 
+oznaczamy jako złożone wszystkie jej wielokrotności.
+Złożoność:
+
+Czasowa: 
+O(nloglogn), co czyni algorytm szybkim.
+Pamięciowa: 
+O(n), ponieważ przechowujemy informacje o każdej liczbie od 0 do n
+
+Zastosowania
+Znajdowanie liczb pierwszych: Sito Eratostenesa jest jednym z najczęściej używanych algorytmów do generowania liczb pierwszych.
+Optymalizacja: Jest szczególnie efektywne, gdy musimy znaleźć wiele liczb pierwszych w dużym zakresie.

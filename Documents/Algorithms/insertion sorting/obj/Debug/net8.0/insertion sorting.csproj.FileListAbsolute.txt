@@ -1,0 +1,15 @@
+/Users/jakubminorczyk/Documents/insertion sorting/bin/Debug/net8.0/insertion sorting
+/Users/jakubminorczyk/Documents/insertion sorting/bin/Debug/net8.0/insertion sorting.deps.json
+/Users/jakubminorczyk/Documents/insertion sorting/bin/Debug/net8.0/insertion sorting.runtimeconfig.json
+/Users/jakubminorczyk/Documents/insertion sorting/bin/Debug/net8.0/insertion sorting.dll
+/Users/jakubminorczyk/Documents/insertion sorting/bin/Debug/net8.0/insertion sorting.pdb
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.AssemblyInfoInputs.cache
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.AssemblyInfo.cs
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.csproj.CoreCompileInputs.cache
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.sourcelink.json
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.dll
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/refint/insertion sorting.dll
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.pdb
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/insertion sorting.genruntimeconfig.cache
+/Users/jakubminorczyk/Documents/insertion sorting/obj/Debug/net8.0/ref/insertion sorting.dll

@@ -1,0 +1,5 @@
+Wyjaśnienie:
+
+1. Tworzymy zmienną wynik, która początkowo ma wartość 1.
+2. Przechodzimy przez wszystkie liczby od 1 do n i mnożymy je przez wynik.
+3. Na końcu zwracamy wynik, który jest obliczoną silnią.

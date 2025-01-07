@@ -1,0 +1,14 @@
+Merge sort (sortowanie przez scalanie) to wydajny algorytm sortowania oparty na metodzie 
+„dziel i zwyciężaj”. Działa w czasie O(nlogn), 
+co czyni go bardzo efektywnym, zwłaszcza dla dużych zbiorów danych. 
+Proces działania algorytmu można opisać w kilku krokach:
+
+1. Podział (Divide)
+Dzielimy tablicę na dwie części, aż każda z nich będzie miała jeden element (lub będzie pusta).
+2. Scalanie (Merge)
+Rekurencyjnie łączymy podzielone części, sortując elementy w trakcie scalania.
+
+Kluczowe aspekty implementacji:
+Podział na mniejsze tablice: Korzystamy z Array.Copy do podziału tablicy na lewą i prawą część.
+Rekurencja: Algorytm wywołuje się sam na podtablicach.
+Scalanie: Sortowanie odbywa się podczas scalania dwóch posortowanych podtablic.
